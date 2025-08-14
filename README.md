@@ -48,8 +48,8 @@ contact-form/
 
 | Field   | Rule                                   | Example                          |
 |---------|---------------------------------------|-----------------------------------|
-| Name    | Required                              | John Doe                         |
-| Email   | Required + valid format (`name@host`) | johndoe@example.com              |
+| Name    | Required                              | prakhar solanki                   |
+| Email   | Required + valid format (`name@host`) | prakhar@example.com               |
 | Message | Required                              | Hello, I am interested in your services. |
 
 ---
