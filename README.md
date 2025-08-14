@@ -54,9 +54,6 @@ contact-form/
 
 ---
 
-## 📸 Screenshot
-*(Add screenshot here if available)*
-
 ---
 
 ## 👨‍💻 Author
